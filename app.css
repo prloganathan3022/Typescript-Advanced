@@ -1,0 +1,22 @@
+input {
+    width: 20em;
+    height: 2.3em;
+    margin: 0.5em;
+    padding-left: 10px;
+}
+
+button {
+    width: 10em;
+    margin: 0.5em;
+}
+
+#map {
+    height: 40em;
+    margin: 2em;
+}
+
+#error {
+    display: flex;
+    justify-content: center;
+    color: red;
+}
